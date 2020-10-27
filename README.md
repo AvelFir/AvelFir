@@ -12,7 +12,7 @@ Forte
 * Git
 * Linux
 
--Conhecedor
+Conhecedor
 * Javascript
 * Html
 * Css
