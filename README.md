@@ -6,17 +6,17 @@ Estou estudando Java para poder trocar de carreira e atuar como desenvolvedor Ba
 
 HABILIDADES TECNICAS
 
--Forte
-*Java 8+ 
-*SQL(MySql,SqlServer)
-*Git
-*Linux
+Forte
+* Java 8+ 
+* SQL(MySql,SqlServer)
+* Git
+* Linux
 
 -Conhecedor
-*Javascript
-*html
-*css
-*Node.js
-*Oracle Database
-*Hardware
-*Redes de Computadores
+* Javascript
+* Html
+* Css
+* Node.js
+* Oracle Database
+* Hardware
+* Redes de Computadores
