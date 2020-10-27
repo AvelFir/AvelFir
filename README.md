@@ -1,16 +1,22 @@
 ### Hi there 👋
 
-<!--
-**AvelFir/AvelFir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Guilherme Martins, sou formado em redes de computadores e estou no 2° Semestre de Analise e Desenvolvimento de Sistemas
+Atualmente trabalho como Analista de Suporte na THINK IT
+Estou estudando Java para poder trocar de carreira e atuar como desenvolvedor Back-End
 
-Here are some ideas to get you started:
+HABILIDADES TECNICAS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-Forte
+*Java 8+ 
+*SQL(MySql,SqlServer)
+*Git
+*Linux
+
+-Conhecedor
+*Javascript
+*html
+*css
+*Node.js
+*Oracle Database
+*Hardware
+*Redes de Computadores
