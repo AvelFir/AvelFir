@@ -10,15 +10,14 @@ HABILIDADES TECNICAS
 
 Forte
 * Java 8+ 
-* SQL(MySql,SqlServer)
+* Banco de Dados Relacionais (PostgreSQL/MySQL);
 * Git
-* Linux
+
 
 Conhecedor
 * Javascript
 * Html
 * Css
-* Node.js
-* Oracle Database
-* Hardware
+* Serviços web (RESTful services / JSON / SOA);
 * Redes de Computadores
+* Linux
