@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Meu nome é Guilherme Martins, sou formado em redes de computadores e estou no 2° Semestre de Analise e Desenvolvimento de Sistemas
+Meu nome é Guilherme Martins, sou formado em redes de computadores e estou no 3° Semestre de Analise e Desenvolvimento de Sistemas
 
 Atualmente trabalho como Analista de Suporte na THINK IT
 
