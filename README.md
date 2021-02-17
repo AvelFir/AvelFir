@@ -10,14 +10,13 @@ HABILIDADES TECNICAS
 
 Forte
 * Java 8+ 
-* Banco de Dados Relacionais (PostgreSQL/MySQL);
-* Git
-
+* Banco de Dados Relacionais (PostgreSQL/MySQL)
+* Spring(mvc,security,data)
 
 Conhecedor
-* Javascript
-* Html
-* Css
-* Serviços web (RESTful services / JSON / SOA);
+* Serviços web (RESTful services / JSON)
+* Hibernate
+* Padrões de Projeto: MVC
+* Testes Unitários(JUnit)
+* Git
 * Redes de Computadores
-* Linux
