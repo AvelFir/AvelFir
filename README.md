@@ -3,7 +3,7 @@
 ==========================================================================================================================================
 
 
-My name is Guilherme Martins do Rosario. I work as a Estagiario Suporte Tecnico Windows at Think It.
+My name is Guilherme Martins do Rosario. I work as a Windows technical support at Think It.
 
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=AvelFir&repo=AvelFir&countColorcountColor)
 
