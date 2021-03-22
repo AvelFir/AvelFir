@@ -3,7 +3,7 @@
 Meu Nome é Guilherme Martins
 Sou apaixonado por tecnologia e tudo que envolve esse universo maravilhoso de T.I
 Atualmente Trabalho como Estagiário de Suporte Windows na THINK IT, 
-Estou cursando Analise e Desenvolvimento na FAM - Faculdade das Americas 
+estou cursando Analise e Desenvolvimento na FAM - Faculdade das Americas 
 Estou estudando JAVA em busca de uma vaga para desenvolvimento back end
 
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=AvelFir&repo=AvelFir&countColorcountColor)
