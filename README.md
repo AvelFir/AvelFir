@@ -2,9 +2,8 @@
 
 Meu Nome é Guilherme Martins
 Sou apaixonado por tecnologia e tudo que envolve esse universo maravilhoso de T.I
-Atualmente Trabalho como Trainee de sistemas na Indra Company Brasil
+Atualmente Trabalho como Java Developer na Zup Innovation e
 estou cursando Analise e Desenvolvimento na FAM - Faculdade das Americas 
-Estou estudando JAVA em busca de uma vaga para desenvolvimento back end
 
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=AvelFir&repo=AvelFir&countColorcountColor)
 
